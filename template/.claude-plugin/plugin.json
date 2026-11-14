@@ -1,0 +1,11 @@
+{
+  "name": "__REPO__",
+  "displayName": "__PRODUCT__ Skills (unofficial)",
+  "version": "0.1.0",
+  "description": "Reference skills for __PRODUCT__, generated from official open sources, with checkers and a blind evaluation.",
+  "author": { "name": "__AUTHOR__", "url": "https://github.com/__GITHUB__" },
+  "homepage": "https://github.com/__GITHUB__/__REPO__",
+  "repository": "https://github.com/__GITHUB__/__REPO__",
+  "license": "MIT",
+  "keywords": ["__PREFIX__"]
+}

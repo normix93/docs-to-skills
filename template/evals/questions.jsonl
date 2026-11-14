@@ -1,0 +1,1 @@
+{"id": "ex-01", "skill": "__PREFIX__-example", "q": "<A question you or your team really asked, in their words>", "must": ["<fact 1 a correct answer must contain>", "<fact 2>"], "must_not": ["<the plausible wrong answer a model gives>"], "source": "<URL or file + section that proves the answer>"}

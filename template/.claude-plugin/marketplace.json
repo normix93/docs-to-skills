@@ -1,0 +1,6 @@
+{
+  "name": "__REPO__",
+  "owner": { "name": "__AUTHOR__", "url": "https://github.com/__GITHUB__" },
+  "plugins": [ { "name": "__REPO__", "source": "./", "version": "0.1.0",
+                 "description": "Reference skills for __PRODUCT__ with checkers." } ]
+}
